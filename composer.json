@@ -1,0 +1,17 @@
+{
+    "name": "codedigitally/phpinfo",
+    "description": "It a testing dummy package",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Dhairya Lakhera",
+            "email": "dhariya.coder@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "MyPHPInfo\\": "src/"
+        }
+    },
+    "require": {}
+}
