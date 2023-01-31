@@ -7,6 +7,6 @@ class PHPinfo
 {
     public function version()
     {
-        return '8.1';
+        return '1.0.2';
     }
 }
